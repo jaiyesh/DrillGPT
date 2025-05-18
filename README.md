@@ -179,7 +179,7 @@ Recommendation:
 
 ### 📽️ Demo Video
 
-<a href="artifacts/demo.mp4" target="_blank">Watch the Demo Video</a>
+[![DrillGPT Demo Video](https://img.youtube.com/vi/8Fm2UjNDpY0/maxresdefault.jpg)](https://www.youtube.com/watch?v=8Fm2UjNDpY0)
 
 ---
 
