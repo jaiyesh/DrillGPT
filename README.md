@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="artifacts/2.jpg" alt="DrillGPT Logo" width="200"/>
+  ![logo](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant/blob/main/assets/logo_rounded.png)
   
   <h1 align="center"><strong>⚙️ DrillGPT: AI-Driven Drilling Optimization Assistant</strong></h1>
   <h4 align="center">LLM-powered multi-agent system for drilling parameter optimization and operational insight</h4>
