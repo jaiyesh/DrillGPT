@@ -179,7 +179,7 @@ Recommendation:
 
 ### 📽️ Demo Video
 
-<video src="artifacts/demo.mp4" controls width="700">Your browser does not support the video tag.</video>
+<a href="artifacts/demo.mp4" target="_blank">Watch the Demo Video</a>
 
 ---
 
